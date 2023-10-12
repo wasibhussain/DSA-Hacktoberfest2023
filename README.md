@@ -33,7 +33,7 @@ You can fork this repository by clicking on the fork button in the top right cor
 To clone the repository, go to your account, open this repo, and either click on the clone button or run the command below to get this repository on your local machine:
 
 
-e.g., `git clone https://github.com/wasibhussain/CodeForAll-Hacktoberfest.git`
+e.g., `git clone https://github.com/wasibhussain/DSA-Hacktoberfest2023.git`
 
 **Step 4 - Create a Branch**
 
