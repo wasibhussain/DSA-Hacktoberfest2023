@@ -1,6 +1,6 @@
 # DSA-Hacktoberfest2023 🚀
 
-Welcome to DSA-Hacktoberfest2023 repository! This open-source treasure chest is designed for aspiring programmers, especially beginners, to simplify the learning process.
+Welcome to the DSA-Hacktoberfest2023 Repository! This open-source hub is thoughtfully crafted to provide a helping hand to budding programmers, particularly those who are new to the world of Data Structures and Algorithms. Our goal is to make the learning process easier and more accessible for everyone.
 
 **Languages You Will Find:** 🌐
 - JavaScript
